@@ -2,7 +2,7 @@
   <img src="./public/radar-mark.svg" alt="Startup Radar" width="88" />
 </p>
 
-<h1 align="center">Startup Radar</h1>
+<h1 align="center">Founder's Radar</h1>
 
 <p align="center">한국 창업자를 위한 맞춤형 스타트업 행사 탐색 서비스입니다.</p>
 

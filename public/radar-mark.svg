@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none" role="img" aria-label="Startup Radar">
+  <circle cx="100" cy="100" r="78" stroke="#2f4a66" stroke-width="1.5"/>
+  <circle cx="100" cy="100" r="52" stroke="#2f4a66" stroke-width="1.5"/>
+  <circle cx="100" cy="100" r="26" stroke="#2f4a66" stroke-width="1.5"/>
+  <line x1="100" y1="18" x2="100" y2="182" stroke="#2f4a66" stroke-width="1.5"/>
+  <line x1="18" y1="100" x2="182" y2="100" stroke="#2f4a66" stroke-width="1.5"/>
+  <circle cx="100" cy="100" r="5" fill="#2f4a66"/>
+</svg>
